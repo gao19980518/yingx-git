@@ -5,5 +5,6 @@ public class Test1 {
         System.out.println("Hello World!");
         System.out.println("dev intput");
         System.out.println("远程协助的修改");
+        System.out.println("本地master的提交并推送");
     }
 }
