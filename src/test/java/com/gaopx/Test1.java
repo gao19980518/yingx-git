@@ -8,5 +8,6 @@ public class Test1 {
         System.out.println("本地master的提交并推送");
         System.out.println("再次提交推送");
         System.out.println("再次拉取到本库");
+        System.out.println("克隆的提交推送");
     }
 }
